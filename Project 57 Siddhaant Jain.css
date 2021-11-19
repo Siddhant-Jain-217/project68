@@ -1,0 +1,174 @@
+body {
+    background-color: cyan;
+    text-align: center;
+    margin: 20px;
+    opacity: inherit;
+}
+#about {
+    padding: 20px;
+    font-size: 20;
+    text-align: center;
+}
+h1{
+    text-shadow: 2px 2px #FBB8D0;
+    font-size: 20;
+}
+img{
+    border-radius: 50%;
+    width: 300px;
+}
+section{
+    background: rgb(247,24,130);
+background: radial-gradient(circle, rgba(247,24,130,1) 0%, rgba(255,164,210,1) 100%);
+}
+ul {
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  }
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 4px 5px;
+  text-decoration: none;
+}
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 70%;
+}
+ul {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+.parallax-inner {
+      display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+.menu {
+    position: fixed;
+    width: 130%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+li a {
+  color: #666;
+}
+#ab {
+    width: 300;
+    border-width: medium;
+    border: 4px;
+    margin-top: 25px;
+    }
+
+#cd {
+    width: 300;
+    border-width: medium;
+    border: 4px;
+    margin-top: 50px;
+    }
+
+.s {
+   font-size: 50px;
+    text-align: center; 
+    color: black;
+    }
+.g {
+     margin-right: 100px;
+    color: black;
+    }
+.fa {
+    color: black;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+#contact
+{
+background: firebrick;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    color: white;
+    text-shadow: none;
+}
+#project {
+    margin-left: 50px;
+    align-items: center;
+    display: flex;
+    
+}
+#pro {
+   margin-left: 100px;
+    align-content: center;
+}
+#description {
+    text-align: left;
+    margin-left: 10px;
+}
+#d {
+    text-align: right;
+    margin-left: 600px;
+    top: 30px;    
+}
+li a:hover {
+  font-size: 20px;
+}
+li a:hover {
+    
+    font-size: 20;
+}
+li {
+    margin-left: 100px;
+    
+}
+.ll {
+	margin-right: 100px;
+	color: black;
+} 
+#abcde {
+    color: skyblue;
+}
+#ab {
+    color: blueviolet;
+}
+#g {
+    color: red;
+}
+input {
+    background: grey;
+    outline: 5px;
+}
